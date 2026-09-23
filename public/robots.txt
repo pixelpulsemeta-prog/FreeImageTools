@@ -1,0 +1,6 @@
+# robots.txt for FreeImageTools
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://freeimagetools.org/sitemap.xml
